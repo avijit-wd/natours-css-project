@@ -1,0 +1,24 @@
+{
+  "name": "natours_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  },
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avijit-wd/natours-css-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avijit-wd/natours-css-project/issues"
+  },
+  "homepage": "https://github.com/avijit-wd/natours-css-project#readme"
+}
